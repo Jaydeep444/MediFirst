@@ -46,16 +46,6 @@ p{
     flex-wrap: wrap;
     justify-content: space-around;
 }
-.col-2-2{
-    flex-basis: 50%;
-    min-width: 300px;
-}
-.col-2-2 img{
-    max-width: 100%;
-    padding: 10px 0;
-    margin-top: -80px;
-    margin-left: 120px;
-}
 .col-2{
     flex-basis: 50%;
     min-width: 300px;
@@ -165,7 +155,7 @@ h4{
 }
 .col-2 .offer-img{
     padding: 20px;
-    margin-left: -100px;
+    margin-left: -50px;
     margin-top: 30px;
 }
 small{
